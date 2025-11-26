@@ -1,0 +1,18 @@
+# JMeter Reports (HTML auto-generated)
+reports/html-report/
+reports/html-report-v2/
+reports/html/
+
+# Raw test results
+reports/*.jtl
+reports/*.csv
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
