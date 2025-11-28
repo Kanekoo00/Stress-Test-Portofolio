@@ -1,17 +1,31 @@
-# JMeter Reports (HTML auto-generated)
-reports/html-report/
-reports/html-report-v2/
-reports/html/
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
 
 # Raw test results
 reports/*.jt
 
-# Logs
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# JMeter
+*.jtl
 *.log
+jmeter/logs/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Node (optional)
+node_modules/
 
-# VS Code
-.vscode/
+# Secrets
+*.env
+
+# Build
+dist/
+build/
