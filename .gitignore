@@ -6,6 +6,9 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Raw test results
+reports/*.jt
+
 # Python
 __pycache__/
 *.pyc
