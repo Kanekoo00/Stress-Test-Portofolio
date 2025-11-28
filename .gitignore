@@ -6,21 +6,19 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Raw test results
-reports/*.jt
-
 # Python
 __pycache__/
 *.pyc
 env/
 venv/
 
-# JMeter
+# JMeter outputs
+reports/
 *.jtl
 *.log
-jmeter/logs/
+*.csv
 
-# Node (optional)
+# Node
 node_modules/
 
 # Secrets
