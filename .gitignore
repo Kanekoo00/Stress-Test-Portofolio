@@ -4,8 +4,7 @@ reports/html-report-v2/
 reports/html/
 
 # Raw test results
-reports/*.jtl
-reports/*.csv
+reports/*.jt
 
 # Logs
 *.log
