@@ -18,7 +18,13 @@ This project demonstrates stress testing implementation using Apache JMeter to a
 - Observe server failure point
 - Evaluate system stability
 - 
-## Test Scenario
+## Test Scenarios
+  I have 2 test scenarios :
+- Total Requests: 5,000
+- Target: PetStore Swagger API
+- Goal: Push the system beyond normal load
+
+===========================================
 - Total Requests: 5,000
 - Target: PetStore Swagger API
 - Goal: Push the system beyond normal load
