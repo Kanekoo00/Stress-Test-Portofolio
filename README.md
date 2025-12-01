@@ -17,5 +17,16 @@ This project demonstrates stress testing implementation using Apache JMeter to a
 - Measure response time & throughput
 - Observe server failure point
 - Evaluate system stability
+- 
+## Test Scenario
+- Total Requests: 5,000
+- Target: PetStore Swagger API
+- Goal: Push the system beyond normal load
 
-## 📂 Project Structure
+## Result Summary
+
+- [Result Summary)(https://github.com/Kanekoo00/Stress-Test-Portofolio/tree/main/reports)
+
+## Conclusion
+ - The system remains functionally stable, but experiences significant performance degradation. Response times exceed acceptable limits, even though no failures.
+
