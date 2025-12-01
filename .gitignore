@@ -16,7 +16,6 @@ venv/
 reports/
 *.jtl
 *.log
-*.csv
 
 # Node
 node_modules/
